@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    
+<body>
+    <header>
+    <nav class="navigation" style="margin-top: 2px; margin-left: 100px;">
+    <ul>
+    <li style="margin-top: 4px;">VIRTUAL PLANS</li>
+    <nav class="navigation" >
+    <ol>
+        <li><a href="https://www.jcfitness.in/monthly-virtual-training-sessions/">MONTHLY VIRTUAL PLAN</a></li>
+        <li><a href="https://www.jcfitness.in/12-weeks-virtual-training-transformation-plan/">12 WEEKS VIRTUAL TRANSFORMATION PLAN</a></li>
+        <li><a href="https://www.jcfitness.in/half-yearly-virtual-training-transformation-plan/">HALF YEARLY VIRTUALTRANING TRANSFORMATION PLAN</a></li>
+        <li><a href="https://www.jcfitness.in/yearly-virtual-training-transformation-plan/">YEARLY VIRTUALTRANING TRANSFORMATION PLAN</a></li>
+    </ol>
+    </nav>
+    </ul>
+</header>
+</body>
+</html>
